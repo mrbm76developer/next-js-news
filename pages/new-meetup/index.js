@@ -6,4 +6,4 @@ const NewMeetupPage = () => {
   }
   return <NewMeetup onAddMeetup={addMeetupHandler}/>
 }
-export default NewMeetup;
+export default NewMeetupPage;
